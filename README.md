@@ -8,6 +8,10 @@ Real-time dense point cloud streaming from Intel RealSense D435 to Meta Quest VR
 - PC with Air Link or USB-C cable for development & testing
 - Android Build Support module installed in Unity Hub
 
+**Architecture**
+
+![Diagram](Docs/architecture-diagram.png)
+
 ### Step-by-step: Create & configure the Unity project from scratch
 
 1. **Create a new Unity project**
